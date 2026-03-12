@@ -9,4 +9,3 @@ let resultado1 = numero1 - numero2
 let resultado2 = resultado1 + 10
 
 console.log("Resultado = " + resultado2)
-

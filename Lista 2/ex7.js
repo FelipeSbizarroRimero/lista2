@@ -32,3 +32,12 @@ console.log("Resultado 4 = " + resultado4)
 
 console.log("Resultado 5 = " + resultado5)
 
+console.log("Resultado 6 = " + resultado6)
+
+console.log("Resultado 7 = " + resultado7)
+
+console.log("Resultado 8 = " + resultado8)
+
+console.log("Resultado 9 = " + resultado9)
+
+console.log("Resultado 10 = " + resultado10)
